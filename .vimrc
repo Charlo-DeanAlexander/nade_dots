@@ -16,9 +16,6 @@ syntax on
 " Display line numbers:
 set number
 
-" Set cursor line:
-set cursorline
-
 " Shift width spaces:
 set shiftwidth=4
 
