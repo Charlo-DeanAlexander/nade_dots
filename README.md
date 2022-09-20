@@ -1,2 +1,2 @@
-# Purpose:
-Public configs and for linux packages.
+# nade_dots:
+Public configs for unix packages.
